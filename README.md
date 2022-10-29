@@ -7,7 +7,7 @@
 
 - 👨‍💻 my projects are available at [https://www.instagram.com/reel/CiqCfhyp4pN/?igshid=MDJmNzVkMjY=](https://www.instagram.com/reel/CiqCfhyp4pN/?igshid=MDJmNzVkMjY=)
 
-- 💬 Ask me about **IOT,Arduino Programming, C and C++ pr**
+- 💬 Ask me about **IOT,Arduino Programming, C and C++ **
 
 - 📫 How to reach me **pradumku1800@gmail.com**
 
