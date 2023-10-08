@@ -14,7 +14,7 @@
 
 - 📄 My linkedin profile link [https://www.linkedin.com/in/pradum-kumar-744661219](https://www.linkedin.com/in/pradum-kumar-744661219)
 
-- ⚡ Fun fact **I am funny😎**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
